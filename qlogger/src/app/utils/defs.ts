@@ -1,0 +1,35 @@
+export type Blog = {
+    id: string, 
+    category: string, 
+    writer: string, 
+    title: string, 
+    date: string, 
+    likes: number
+    content: string,
+};
+
+export const categories:string[]= [
+    "Technology",
+    "Art",
+    "Life",
+    "Cooking",
+    "Travel",
+    "Marketing",
+    "Literature",
+    "Social Media",
+    "Gaming",
+    "Sports",
+    "Mental Health",
+    "Medicine",
+    "History",
+    "Geography",
+    "Political Science",
+    "Economics",
+    "Law",
+    "Philosophy",
+    "Languages",
+    "Photography",
+    "Music",
+    "Fashion",
+    "Design",
+    "Crafts"];
