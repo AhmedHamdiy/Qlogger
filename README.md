@@ -1,6 +1,7 @@
+![logo](https://github.com/AhmedHamdiy/Qlogger/assets/111378492/c3fd92d1-c77c-4bb0-bce0-f412a47dbb7e)
+
 # Qlogger 📝✨
 Where Quality Meets Blogging
-![logo](https://github.com/AhmedHamdiy/Qlogger/assets/111378492/c3fd92d1-c77c-4bb0-bce0-f412a47dbb7e)
 
 
 ## Features 🌟
